@@ -656,7 +656,7 @@ var rawData = [
       31.2312707
     ],
     "ext": {
-      "job": "上海海市大学",
+      "job": "上海海事大学",
       "ind": "nan",
       "words": "nan",
       "photo": "https://ui-avatars.com/api/?name=曾庆函"
